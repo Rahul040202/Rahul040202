@@ -14,7 +14,7 @@
     * *_Grade 10 -> General -> 80_*
 * 👀 I’m interested in ```Machine Learning``` ```Artificial Intelligence``` ```Data Analysis``` ```NLP``` ```Computer Vision```
 * 🌱 I’m currently learning *_Internet of Things*_ - *_Deep Learning_* *_App Development_*
-* 💞️ I’m looking to collaborate on ...
+* 💞️ I’m looking to collaborate on companies that seek to **Automate** tedious *_man work_*
 * 📫 How to reach me ...
 
 <!---
