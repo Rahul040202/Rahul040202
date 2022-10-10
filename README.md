@@ -22,7 +22,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Rahul040202&show_icons=true_color=fff&theme=algolia">
 </p>
 
-
+<p align="center">
+  <a href="https://github.com/Rahul040202">
+    <img src="https://komarev.com/ghpvc/?username=Rahul040202" alt="page views" />
+  </a>
+</p>
 
 <!---
 Rahul040202/Rahul040202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
