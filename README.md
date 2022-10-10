@@ -1,6 +1,14 @@
 # Hola amigos!
 
 * 👋 I’m Rahul G 
+  * **COLLEGE** : 
+    * *_Sri Venkateswara College of Engineering_* 
+    * *_B Tech in Artificial Intelligence and Data Science_*
+    * *_Junior_*
+    * *_Machine Learning magician_*
+    * *_Statistical Data analyst_*
+  * **SCHOOL** :
+    * *__*  
 * 👀 I’m interested in ...
 * 🌱 I’m currently learning ...
 * 💞️ I’m looking to collaborate on ...
