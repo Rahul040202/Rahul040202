@@ -17,6 +17,13 @@
 * 💞️ I’m looking to collaborate on companies that seek to **Automate** tedious *_man work_*
 * 📫 How to reach me **rahulgilakareddy@gmail.com**
 
+<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul040202&show_icons=true_color=fff&theme=algolia">
+</p>
+
+
+
 <!---
 Rahul040202/Rahul040202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
