@@ -8,7 +8,9 @@
     * *_Machine Learning magician_*
     * *_Statistical Data analyst_*
   * **SCHOOL** :
-    * *__*  
+    * *_Vellamal Vidhyashram_* 
+    * *_Grade 12 -> Mathematics and Computer Science -> 94%_* 
+    * 
 * 👀 I’m interested in ...
 * 🌱 I’m currently learning ...
 * 💞️ I’m looking to collaborate on ...
