@@ -10,7 +10,8 @@
   * **SCHOOL** :
     * *_Vellamal Vidhyashram_* 
     * *_Grade 12 -> Mathematics and Computer Science -> 94%_* 
-    * 
+    * *_Jain Vidhyashram_*
+    * *_Grade 10 -> General -> 80_*
 * 👀 I’m interested in ...
 * 🌱 I’m currently learning ...
 * 💞️ I’m looking to collaborate on ...
