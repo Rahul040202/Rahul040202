@@ -1,4 +1,4 @@
-# Hola amigos!
+# HOLA AMIGOS!
 
 * 👋 I’m Rahul G 
   * **COLLEGE** : 
