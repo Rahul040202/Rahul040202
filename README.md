@@ -11,7 +11,7 @@
     * *_Vellamal Vidhyashram_* 
     * *_Grade 12 -> Mathematics and Computer Science -> 94%_* 
     * *_Jain Vidhyashram_*
-    * *_Grade 10 -> General -> 80_*
+    * *_Grade 10 -> General -> 84%_*
 * 👀 I’m interested in ```Machine Learning``` ```Artificial Intelligence``` ```Data Analysis``` ```NLP``` ```Computer Vision```
 * 🌱 I’m currently learning *_Internet of Things*_ - *_Deep Learning_* *_App Development_*
 * 💞️ I’m looking to collaborate on companies that seek to **Automate** tedious *_man work_*
