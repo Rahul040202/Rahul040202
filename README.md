@@ -55,3 +55,31 @@ Building intelligent systems using **Artificial Intelligence, Computer Vision, G
 
 ---
 
+## 🚀 Individual Projects
+
+### Transistor Defect Inspection 
+Transistor defect inspection web app using PatchCore anomaly detection with visual heatmap and defect-region outputs  
+🔗 [GitHub Repository](https://github.com/Rahul040202/transistor-defect-inspection)
+
+---
+
+## 🤝 Team Projects
+
+### COPD Severity Classification
+Contributed to a deep learning system for COPD severity assessment using lung sound analysis and RESNET-based classification.  
+🔗 [GitHub Repository](https://github.com/Rahul040202/COPD-Severity-Assessment)
+
+### Avalanche Victim Localizer
+Collaborated on an AI-assisted drone rescue system integrating thermal imaging and object detection.  
+🔗 [GitHub Repository](https://github.com/Rahul040202/Avalanche-Victim-Detector)
+
+### Feed The Need
+Contributed to the platform architecture and user flow design to improve usability and scalability.  
+🔗 [GitHub Repository](https://github.com/Rahul040202/Feed-The-Need-beta14-Dexters)
+
+---
+
+## 📫 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/rahul-g-9ba993224/) 
+- [Medium](https://medium.com/@gilakarahul) 
